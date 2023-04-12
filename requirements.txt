@@ -10,3 +10,5 @@ whois
 paramiko
 colorama
 rich
+pillow
+ttkbootstrap
