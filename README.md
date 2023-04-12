@@ -163,11 +163,11 @@ Full-Scanner
 
 ## GUI界面
 
-![f0a7331054f193ceb3a91e8d5265390](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/f0a7331054f193ceb3a91e8d5265390.jpg)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/f0a7331054f193ceb3a91e8d5265390.jpg)
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/github/FullScanner/2023-02-09_18-27.png)
 
-![image-20230228203022826](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230228203022826.png)
+![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/img/image-20230228203022826.png)
 
 ![](https://zssnp-1301606049.cos.ap-nanjing.myqcloud.com/github/FullScanner/2023-02-09_18-26.png)
 
