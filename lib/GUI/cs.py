@@ -8,7 +8,6 @@ import os
 import shutil
 from conf import config  # 配置文件
 
-sys.path.append("../../") # 解决上级库文件
 from ttkbootstrap.constants import *
 #import Coding_tools
 #import Utilities
